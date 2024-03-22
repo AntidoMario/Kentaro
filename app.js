@@ -1,6 +1,6 @@
-import{info} from "./info.js"
-import{img} from "./img.js"
-import {card} from "./card.js"
+import{info} from "./src/info.js"
+import{img} from "./src/img.js"
+import {card} from "./src/card.js"
 
 
 
